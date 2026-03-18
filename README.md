@@ -1,8 +1,7 @@
 # proactive_scheduler
 
-# Project Title
-
-Final project for the Building AI course by the University of Helsinki.
+# Echo. Automating schedules.
+Building AI course project for the University of Helsinki.
 
 ## Summary
 Echo is a conversational AI that parses unstructured chat messages into precise, time-sensitive remidners. It removes the friction of manual data entry acting instead as an assistant that you can tell exactly what you need to remember and it remains
